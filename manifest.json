@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "version": "0.1",
+    "version": "1.0.0",
     "name": "Bitcoin Ticker",
     "short_name": "Bitcoin",
     "description": "A Detailed Ticker for the Bitcoin Cryptocurrency",
